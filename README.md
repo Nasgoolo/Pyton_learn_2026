@@ -1,6 +1,7 @@
 Python Learning Repository
 
-This repository is created for systematic learning of the Python programming language from beginner to a confident level. It contains practical examples, exercises, and small projects to help reinforce knowledge through hands-on practice.
+This repository is created for systematic learning of the Python programming language from beginner to a confident level.
+It contains practical examples, exercises, and small projects to help reinforce knowledge through hands-on practice.
 
 Goal
 
